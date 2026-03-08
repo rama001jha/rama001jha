@@ -80,15 +80,6 @@ I specialize in building scalable infrastructure, implementing CI/CD pipelines, 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-> Replace `YOUR_USERNAME` with your actual GitHub username.
-
----
 
 ## 📜 What I Bring
 
