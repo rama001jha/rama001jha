@@ -46,7 +46,7 @@ I specialize in building scalable infrastructure, implementing CI/CD pipelines, 
 <li>Improved visibility into AWS usage and spending patterns</li>
 </ul>
 
-<h3>🔹 CI/CD Pipeline on AWS</h3>
+<h3>🔹 <a href="https://github.com/rama001jha/AWS-Projects/tree/main/05-AWS-CI-CD-Project">CI/CD Pipeline on AWS</a></h3>
 <b>Tech:</b> Jenkins, Docker, AWS EC2, Git  
 
 <ul>
