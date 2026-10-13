@@ -1,5 +1,5 @@
 # 🚀 Rama Shankar Jha  
-### DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD
+### DevOps & Cloud | AI/ML
 
 ---
 
@@ -9,7 +9,6 @@ I am a DevOps and Cloud enthusiast focused on designing, automating, and optimiz
 
 I specialize in building scalable infrastructure, implementing CI/CD pipelines, containerizing applications, and managing production-ready deployments using modern DevOps tools.
 
-🎯 **Goal:** To secure a DevOps / Cloud Engineer role and contribute to building reliable, scalable, and cost-efficient cloud systems.
 
 ---
 
