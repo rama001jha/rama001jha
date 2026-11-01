@@ -1,118 +1,168 @@
-# 🚀 Rama Shankar Jha  
-### DevOps & Cloud | AI/ML
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rama%20Shankar%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20AI%2FML&descSize=20&descAlignY=55" width="100%" />
+
+# 👋 Hello, I'm Rama Shankar Jha
+
+### 🚀 Cloud Engineer | DevOps Enthusiast | AI/ML Learner
+
+*Building my skills in cloud infrastructure, automation, and intelligent applications.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+Cloud+%26+DevOps;Building+Infrastructure+with+Terraform;Exploring+Docker+%26+Kubernetes;Learning+Machine+Learning+%26+GenAI" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a DevOps and Cloud enthusiast focused on designing, automating, and optimizing cloud infrastructure on AWS.
+Cloud Engineer currently deep diving into Devops, Machine Learning & Generative AI.
 
-I specialize in building scalable infrastructure, implementing CI/CD pipelines, containerizing applications, and managing production-ready deployments using modern DevOps tools.
-
+- ☁️ Building and managing **cloud infrastructure on AWS** using **Terraform**.
+- 🚀 Deploying applications and workloads on AWS.
+- ⚙️ Exploring automation and CI/CD workflows to streamline application delivery.
+- 🐳 Learning containerization with Docker and orchestration with Kubernetes.
+- 🤖 Exploring Machine Learning (ML) and Generative AI.
+- 📚 Always eager to learn, build practical projects, and solve real-world technical challenges.
 
 ---
 
-## 🛠 Core Skills
+## 🛠️ Languages and Tools
+
+### ☁️ Cloud Computing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+</p>
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+
+### ⚙️ DevOps and Infrastructure as Code
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,linux,git,github" alt="DevOps tools" />
+</p>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🤖 AI, Machine Learning and Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI and ML tools" />
+</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+## 🎯 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM, VPC, CloudWatch, SNS, RDS, ELB)
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- CI/CD Pipeline Design
-- Linux Administration
 
-### 🔧 Infrastructure & Automation
-- Infrastructure as Code (Terraform)
-- Automated Deployments
-- Cost Monitoring & Budgeting
-- Monitoring & Logging
+- AWS infrastructure
+- Infrastructure as Code with Terraform
+- Docker containerization
+- Kubernetes orchestration
+- CI/CD automation
+- Linux administration
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+- Python for Machine Learning
+- Data preprocessing
+- Regression algorithms
+- Natural Language Processing
+- Generative AI
+- Practical AI/ML projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Statistics
 
-<div style="border: 2px solid #d0d7de; padding: 25px; border-radius: 12px;">
+<div align="center">
 
-<h3>🔹 AWS Billing & Cost Management Project</h3>
-<b>Tech:</b> AWS Billing, Budgets, Cost Explorer, CloudWatch, SNS  
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 
-<ul>
-<li>Designed cost monitoring solution using AWS Billing Dashboard</li>
-<li>Created monthly budgets with automated alerting</li>
-<li>Implemented SNS notifications for threshold breaches</li>
-<li>Improved visibility into AWS usage and spending patterns</li>
-</ul>
+</div>
 
-<h3>🔹 <a href="https://github.com/rama001jha/AWS-Projects/tree/main/05-AWS-CI-CD-Project">CI/CD Pipeline on AWS</a></h3>
-<b>Tech:</b> Jenkins, Docker, AWS EC2, Git  
+---
 
-<ul>
-<li>Designed and implemented automated CI/CD pipeline</li>
-<li>Automated build, test, and deployment workflow</li>
-<li>Integrated Docker containerization into deployment pipeline</li>
-<li>Reduced manual deployment effort and improved reliability</li>
-</ul>
+## 🌱 My Learning Journey
 
-<h3>🔹 AWS 3-Tier Application Deployment</h3>
-<b>Tech:</b> AWS EC2, RDS, VPC, Load Balancer, Security Groups  
+I am continuously improving my skills in **Cloud Computing, DevOps, Machine Learning, and Generative AI** by studying concepts, practicing hands-on labs, and building projects.
 
-<ul>
-<li>Deployed scalable 3-tier architecture (Web, App, Database)</li>
-<li>Configured VPC networking and security groups</li>
-<li>Implemented Load Balancer for high availability</li>
-<li>Ensured secure communication between tiers</li>
-</ul>
+My goal is to understand how cloud infrastructure, automation, containers, and AI technologies work together to build reliable and scalable applications.
 
-<h3>🔹 Infrastructure as Code with Terraform</h3>
-<b>Tech:</b> Terraform, AWS EC2, VPC, IAM  
+---
 
-<ul>
-<li>Provisioned complete AWS infrastructure using Terraform</li>
-<li>Automated EC2, VPC, and IAM resource creation</li>
-<li>Implemented modular Terraform structure</li>
-<li>Improved deployment consistency and reduced manual configuration errors</li>
-</ul>
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rama-shankar-jha-2b3875253/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
 
-## 📜 What I Bring
 
-✔ Infrastructure automation mindset  
-✔ Cloud cost optimization awareness  
-✔ Strong Linux fundamentals  
-✔ Hands-on AWS architecture experience  
-✔ CI/CD implementation capability  
-✔ Production-oriented deployment thinking  
+<div align="center">
 
----
+### 💡 Learn. Build. Automate. Improve.
 
-## 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-- Open to DevOps / Cloud opportunities  
+
+
+
 
 ---
 
-## 💡 Currently Focused On
+## 🏆 GitHub Achievements
 
-- Advanced Kubernetes deployments  
-- Production-grade Infrastructure as Code  
-- Improving system reliability and scalability  
+<div align="center">
+
+<a href="https://github.com/rama001jha?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"
+       width="110"
+       alt="Pull Shark Achievement" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/rama001jha?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"
+       width="110"
+       alt="Quickdraw Achievement" />
+</a>
+</div>
 
 ---
