@@ -100,17 +100,61 @@ Cloud Engineer currently deep diving into Devops, Machine Learning & Generative 
 </tr>
 </table>
 
+
 ---
+
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=rama001jha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <!-- Contribution Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=rama001jha&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
+
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rama001jha&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
 
 </div>
 
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rama001jha/rama001jha/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rama001jha/rama001jha/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/rama001jha/rama001jha/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
 ---
+
+
 
 ## 🌱 My Learning Journey
 
